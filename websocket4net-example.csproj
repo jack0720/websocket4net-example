@@ -47,7 +47,7 @@
       <RequiredTargetFramework>4.0</RequiredTargetFramework>
     </Reference>
     <Reference Include="WebSocket4Net">
-      <HintPath>..\WebSocket4Net.dll</HintPath>
+      <HintPath>..\..\..\Microsoft Visual Studio 10.0\WebSocket4Net.dll</HintPath>
     </Reference>
     <Reference Include="WindowsBase" />
     <Reference Include="PresentationCore" />

@@ -22,7 +22,7 @@ namespace websocket_example_window
     public partial class MainWindow : Window
     {
         //[要変更]ここにWebsocket エコーサーバのURLをセットします。
-        private string serverURL = "";
+        private string serverURL = "ws://white.cs.inf.shizuoka.ac.jp:10888";
 
         private WebSocket websocket;
         private bool is_connected = false;
